@@ -159,7 +159,7 @@ Run notebooks in the following order:
 
 **Mohamad Yasid Zidane**
 Aspiring Data Scientist
-📧 [your.email@example.com](mohamadyasidzidane@gmail.com)
+📧 [mohamadyasidzidane@gmail.com](mohamadyasidzidane@gmail.com)
 
 ---
 
